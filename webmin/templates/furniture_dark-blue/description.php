@@ -1,0 +1,1 @@
+<?$arTemplate = Array("NAME"=>"Fixed", "DESCRIPTION"=>"Light and clear fixed-width template.");?>

@@ -1,0 +1,18 @@
+/*Error & OK messages*/
+.errortext, .starrequired { color: red;}  
+.errortext {background:#DD4B39 !important;}
+.notetext {background:#5AC594 !important;} 
+font.errortext, 
+font.notetext{color:#fff !important;}
+
+
+/*Error & OK messages*/
+.errortext, .notetext
+{
+	display: block;
+	margin:0 0 1.5em 0;
+	padding:0.4em 1.117em;
+	border: 1px solid;border-radius:5px;
+}
+.login-logo{margin-bottom: 10px !important;}
+.login-page, .register-page{background: url('images/bg-main.jpg') top center no-repeat !important;}
