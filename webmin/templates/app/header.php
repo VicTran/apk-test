@@ -43,6 +43,7 @@
 <body class="hold-transition skin-blue-light sidebar-collapse sidebar-mini">
 <div class="wrapper">
   <!-- Main Header -->
+    <div id="panel"><?=$APPLICATION->ShowPanel();?></div>
   <header class="main-header">
     <!-- Logo -->
     <!--<a href="/" class="logo">-->

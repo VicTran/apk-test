@@ -13,7 +13,7 @@ $APPLICATION->SetTitle("Furniture Company");
         <div class="container">
             <div class="row">
                 <?
-                $APPLICATION->IncludeComponent("webcomp:booking.car", "step2", array(
+                $APPLICATION->IncludeComponent("webcomp:booking.car2", "step2", array(
                     "URL_STEP_1" => "/dat-xe/",
                     "STEP" => 2
                 ),

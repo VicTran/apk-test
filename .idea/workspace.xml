@@ -1,7 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3aaf4f1a-099c-48f4-960a-de45a0f5fd97" name="Default" comment="" />
+    <list default="true" id="3aaf4f1a-099c-48f4-960a-de45a0f5fd97" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ajax/luu.session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ajax/tinh.gia.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dat-xe-2/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webmin/components/webcomp/booking.car2/component.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webmin/components/webcomp/booking.car2/templates/step1/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webmin/components/webcomp/booking.car2/templates/step2/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webmin/components/webcomp/booking.car2/templates/step3.success/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webmin/components/webcomp/booking.car2/templates/step3/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webmin/components/webcomp/news.list/templates/tung/template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ajax/save.customer.php" afterPath="$PROJECT_DIR$/ajax/save.customer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dat-xe/thanh-toan/index.php" afterPath="$PROJECT_DIR$/dat-xe/thanh-toan/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dat-xe/thong-tin-khach-hang/index.php" afterPath="$PROJECT_DIR$/dat-xe/thong-tin-khach-hang/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/41/416acb540279140f55ddb5b83b7646b7.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/41/416acb540279140f55ddb5b83b7646b7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/65/65b7157158e194d714f3a0c683f9afce.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/65/65b7157158e194d714f3a0c683f9afce.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_agent" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_agent" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_file/34/3402ba34705d65577562da4ad472a4b2.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_file/34/3402ba34705d65577562da4ad472a4b2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_iblock_type/4a/4a6d950e7b4790479f950d2a5921c62d.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_iblock_type/4a/4a6d950e7b4790479f950d2a5921c62d.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_iblock_type/d1/d1fcc4d6b01472eb4145c2317c425042.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_iblock_type/d1/d1fcc4d6b01472eb4145c2317c425042.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_lang/05/0577fb7070670b73d379386858657a6e.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_lang/05/0577fb7070670b73d379386858657a6e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_lang/14/14973ed1ed5db62e4506e469cf59ed9b.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_lang/14/14973ed1ed5db62e4506e469cf59ed9b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_lang/24/24ec248043775b6b340fea2ede04afd1.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_lang/24/24ec248043775b6b340fea2ede04afd1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_lang/4d/4ddd3d008a59ee248a70e8d70e0f258e.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_lang/4d/4ddd3d008a59ee248a70e8d70e0f258e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_lang/55/5585b8ebad58e8064a1c7284562b5b47.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_lang/55/5585b8ebad58e8064a1c7284562b5b47.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_lang/5c/5c025606c9a0baee7d52fddfbd4808eb.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_lang/5c/5c025606c9a0baee7d52fddfbd4808eb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_lang/aa/aac7c831cdd8f2b58559c862f99bf946.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_lang/aa/aac7c831cdd8f2b58559c862f99bf946.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_lang_domain/b2/b21d3c2ec406ac96b9b443675c383d36.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_lang_domain/b2/b21d3c2ec406ac96b9b443675c383d36.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_lang_domain/c0/c0a6035229545c96522ff35e2b8c37a0.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_lang_domain/c0/c0a6035229545c96522ff35e2b8c37a0.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_task/8a/8a72b382e6a173833dc5d73deca9a3a0.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_task/8a/8a72b382e6a173833dc5d73deca9a3a0.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_task/9d/9d8c68225868ee036081eef8be4a9b38.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_task/9d/9d8c68225868ee036081eef8be4a9b38.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_task_operation/23/23e2893e2d083db8e5b22aaf4480f749.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_task_operation/23/23e2893e2d083db8e5b22aaf4480f749.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_task_operation/b3/b3d102e05659b57fe9571855dab3fb50.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_task_operation/b3/b3d102e05659b57fe9571855dab3fb50.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_user_field/27/272391b6ca8da48a4c923e9b1ab35128.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_user_field/27/272391b6ca8da48a4c923e9b1ab35128.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_user_field/2f/2f0a715c791f6536876a0da8bd0cae52.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_user_field/2f/2f0a715c791f6536876a0da8bd0cae52.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_user_field/6b/6bd0400cd25efcefc0ef7e124dc36bd9.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_user_field/6b/6bd0400cd25efcefc0ef7e124dc36bd9.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_user_field/7e/7efd4e00e764b5ce533c8449be2e2fef.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_user_field/7e/7efd4e00e764b5ce533c8449be2e2fef.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_user_field/7f/7faa75b1bdf18ffdc5722beb1184652e.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_user_field/7f/7faa75b1bdf18ffdc5722beb1184652e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_user_field/93/933824f3bc85a0dbb1767b99c9f40653.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_user_field/93/933824f3bc85a0dbb1767b99c9f40653.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_user_field/ab/abf82ac32fa82f21f5ac9e609523ae7f.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_user_field/ab/abf82ac32fa82f21f5ac9e609523ae7f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_user_field/fe/fecb08ec2d66b50e7ec7c71eaa158d1c.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/b_user_field/fe/fecb08ec2d66b50e7ec7c71eaa158d1c.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/e5/e56397d99b3a76ae3f02219877fed2c7.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/e5/e56397d99b3a76ae3f02219877fed2c7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/fb/fbebca4e0e7b3b5d5031caeb6b93a51f.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/fb/fbebca4e0e7b3b5d5031caeb6b93a51f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/menu/41/41a279bdcf107082cfe6ac3beadd1582.php" afterPath="$PROJECT_DIR$/webmin/managed_cache/MYSQL/menu/41/41a279bdcf107082cfe6ac3beadd1582.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/stack_cache/MYSQL/b_iblock/30/306004069f336106238000efc8c322b9.php" afterPath="$PROJECT_DIR$/webmin/stack_cache/MYSQL/b_iblock/30/306004069f336106238000efc8c322b9.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/templates/app/header.php" afterPath="$PROJECT_DIR$/webmin/templates/app/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webmin/templates/main/header.php" afterPath="$PROJECT_DIR$/webmin/templates/main/header.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,28 +67,80 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dat-xe/index.php">
+      <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/booking.car2/templates/step1/template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="281">
+              <caret line="320" column="75" lean-forward="true" selection-start-line="320" selection-start-column="51" selection-end-line="320" selection-end-column="75" />
+              <folding>
+                <marker date="1525602844550" expanded="true" signature="18673:20000" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/booking.car2/templates/step2/template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2300">
+              <caret line="100" column="64" lean-forward="false" selection-start-line="100" selection-start-column="64" selection-end-line="100" selection-end-column="64" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="component.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/app.booking.car/component.php">
+      <file leaf-file-name="template.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/news.list/templates/tung/template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12">
-              <caret line="3" column="45" lean-forward="false" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+            <state relative-caret-position="3381">
+              <caret line="117" column="22" lean-forward="false" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dat-xe/thong-tin-khach-hang/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" column="68" lean-forward="false" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="component.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/static/component.php">
+        <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/booking.car2/component.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/booking.car2/templates/step3/template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1863">
+              <caret line="81" column="61" lean-forward="false" selection-start-line="81" selection-start-column="61" selection-end-line="81" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="luu.session.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ajax/luu.session.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="calendar.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ajax/calendar.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -47,11 +149,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/static/templates/book.step/template.php">
+      <file leaf-file-name="save.book.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ajax/save.book.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="460">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="22" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -59,12 +161,54 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>myModal</find>
+      <find>Thông tin chuyến đi</find>
+      <find>book</find>
+      <find>frmDatXe</find>
+      <find>push</find>
+      <find>refreshGrid_</find>
+      <find>count_callcount_call</find>
+      <find>searchInputGo</find>
+      <find>form</find>
+      <find>help_icon secure</find>
+      <find>x</find>
+      <find>Khoảng cách:</find>
+      <find>km</find>
+      <find>book_noncheck</find>
+      <find>.km</find>
+      <find>success</find>
+      <find>calutagia</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app.book/app/index.php" />
         <option value="$PROJECT_DIR$/app.book/app/.left.menu.php" />
         <option value="$PROJECT_DIR$/webmin/components/webcomp/app.booking.car/templates/step1/template.php" />
+        <option value="$PROJECT_DIR$/webmin/components/webcomp/booking.car/templates/step1/template.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/cam-nan-di-lai/index.php" />
+        <option value="$PROJECT_DIR$/webmin/components/webcomp/news.list/templates/tung/templatebk.php" />
+        <option value="$PROJECT_DIR$/webmin/templates/app/header.php" />
+        <option value="$PROJECT_DIR$/webmin/templates/main/header.php" />
+        <option value="$PROJECT_DIR$/webmin/components/webcomp/booking.car2/templates/step1/template.php" />
+        <option value="$PROJECT_DIR$/webmin/components/webcomp/booking.car2/templates/step2/template.php" />
+        <option value="$PROJECT_DIR$/ajax/save.customer.php" />
+        <option value="$PROJECT_DIR$/dat-xe/thanh-toan/index.php" />
+        <option value="$PROJECT_DIR$/webmin/components/webcomp/booking.car2/templates/step3/template.php" />
+        <option value="$PROJECT_DIR$/dat-xe/index.php" />
+        <option value="$PROJECT_DIR$/dat-xe/thong-tin-khach-hang/index.php" />
+        <option value="$PROJECT_DIR$/ajax/luu.session.php" />
+        <option value="$PROJECT_DIR$/webmin/components/webcomp/booking.car2/component.php" />
+        <option value="$PROJECT_DIR$/dat-xe-2/index.php" />
+        <option value="$PROJECT_DIR$/webmin/components/webcomp/news.list/templates/tung/template.php" />
+        <option value="$PROJECT_DIR$/ajax/tinh.gia.php" />
       </list>
     </option>
   </component>
@@ -80,6 +224,9 @@
     <option name="width" value="1280" />
     <option name="height" value="778" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -89,7 +236,7 @@
       <hideEmptyPackages />
       <abbreviatePackageNames />
       <autoscrollToSource />
-      <autoscrollFromSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="false" />
       <sortByType />
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
@@ -107,11 +254,32 @@
             <path>
               <item name="apka.vn" type="b2602c69:ProjectViewProjectNode" />
               <item name="apka.vn" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ajax" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="apka.vn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apka.vn" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="cam-nan-di-lai" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="apka.vn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apka.vn" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="dat-xe" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="apka.vn" type="b2602c69:ProjectViewProjectNode" />
               <item name="apka.vn" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dat-xe" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="thanh-cong" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="apka.vn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apka.vn" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dat-xe-2" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="apka.vn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apka.vn" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="webmin" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -133,7 +301,7 @@
               <item name="webmin" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="webcomp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app.booking.car" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="booking.car" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="apka.vn" type="b2602c69:ProjectViewProjectNode" />
@@ -141,15 +309,7 @@
               <item name="webmin" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="webcomp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="static" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="apka.vn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apka.vn" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="webmin" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="webcomp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="static" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="booking.car" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -158,9 +318,83 @@
               <item name="webmin" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="webcomp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="static" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="booking.car" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="book.step" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="step1" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="apka.vn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apka.vn" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="webmin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="webcomp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="booking.car" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="step2" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="apka.vn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apka.vn" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="webmin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="webcomp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="booking.car2" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="apka.vn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apka.vn" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="webmin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="webcomp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="booking.car2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="apka.vn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apka.vn" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="webmin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="webcomp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="booking.car2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="step1" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="apka.vn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apka.vn" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="webmin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="webcomp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="booking.car2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="step2" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="apka.vn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apka.vn" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="webmin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="webcomp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="news.list" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="apka.vn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apka.vn" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="webmin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="webcomp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="news.list" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="apka.vn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apka.vn" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="webmin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="webcomp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="news.list" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="tung" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -173,6 +407,12 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/webmin/components/webcomp/booking.car2" />
+      <recent name="$PROJECT_DIR$/webmin/components/webcomp/news.list/templates/tung" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -201,22 +441,28 @@
       <updated>1525514621918</updated>
       <workItem from="1525514623230" duration="252000" />
       <workItem from="1525515229658" duration="978000" />
-      <workItem from="1525516994475" duration="138000" />
+      <workItem from="1525516994475" duration="574000" />
+      <workItem from="1525518644576" duration="1484000" />
+      <workItem from="1525536087505" duration="527000" />
+      <workItem from="1525571274414" duration="5371000" />
+      <workItem from="1525594742137" duration="11247000" />
+      <workItem from="1525658646602" duration="1334000" />
+      <workItem from="1525676296897" duration="4044000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1368000" />
+    <option name="totallyTimeSpent" value="25811000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="778" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.254886" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31433225" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -227,7 +473,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298351" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -238,15 +484,36 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/ajax/save.customer.php</url>
+          <line>2</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="989">
+          <caret line="43" column="53" lean-forward="false" selection-start-line="43" selection-start-column="53" selection-end-line="43" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/booking.car/templates/step1/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app.book/app/book/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -254,7 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="3" column="45" lean-forward="false" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -262,7 +528,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -270,7 +535,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2507">
           <caret line="109" column="42" lean-forward="false" selection-start-line="109" selection-start-column="42" selection-end-line="109" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -278,39 +542,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.book/app/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="44" column="6" lean-forward="true" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-883">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/app.booking.car/templates/step1/template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="109" column="42" lean-forward="false" selection-start-line="109" selection-start-column="42" selection-end-line="109" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.book/app/book/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -318,38 +549,323 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dat-xe/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/static/component.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/static/templates/book.step/template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/app.booking.car/component.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12">
+        <state relative-caret-position="69">
           <caret line="3" column="45" lean-forward="false" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tin-tuc/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dat-xe/modal/book.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/static/templates/book.step/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/booking.car/templates/step3/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1487">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/static/templates/trip.info/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-479">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/static/component.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="46" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.book/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webmin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.book/app/book/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="55" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/app.booking.car/templates/step1/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6808">
+          <caret line="259" column="45" lean-forward="false" selection-start-line="259" selection-start-column="33" selection-end-line="259" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1907">
+          <caret line="111" column="100" lean-forward="false" selection-start-line="111" selection-start-column="89" selection-end-line="111" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/booking.car/component.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cam-nan-di-lai/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/news.list/templates/tung/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="254" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.book/app/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1677">
+          <caret line="44" column="6" lean-forward="true" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webmin/templates/furniture_dark-blue/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="70" column="57" lean-forward="true" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webmin/templates/app/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="45" column="57" lean-forward="false" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webmin/components/webmin/news.list/.description.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webmin/templates/main/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="44" column="53" lean-forward="false" selection-start-line="44" selection-start-column="53" selection-end-line="44" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webmin/components/webmin/news.list/.parameters.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/news.list/templates/tung/a.php" />
+    <entry file="file://$PROJECT_DIR$/ajax/save.payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="66" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/news.list/component.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/news.list/templates/quanlychuyen/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="23" column="34" lean-forward="false" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/news.list/templates/news/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/save.customer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="36" lean-forward="false" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/news.list/.description.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dat-xe/thanh-toan/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="15" column="64" lean-forward="false" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dat-xe/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="56" lean-forward="false" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/booking.car/templates/step2/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="5" column="135" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/booking.car2/templates/step2/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2300">
+          <caret line="100" column="64" lean-forward="false" selection-start-line="100" selection-start-column="64" selection-end-line="100" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dat-xe/thong-tin-khach-hang/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="68" lean-forward="false" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/calendar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/save.book.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="22" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/booking.car2/templates/step3/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1863">
+          <caret line="81" column="61" lean-forward="false" selection-start-line="81" selection-start-column="61" selection-end-line="81" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dat-xe-2/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/booking.car2/component.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/booking.car/templates/step1/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6189">
+          <caret line="226" column="41" lean-forward="false" selection-start-line="226" selection-start-column="40" selection-end-line="226" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/booking.car2/templates/step1/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="320" column="75" lean-forward="true" selection-start-line="320" selection-start-column="51" selection-end-line="320" selection-end-column="75" />
+          <folding>
+            <marker date="1525602844550" expanded="true" signature="18673:20000" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/luu.session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/tinh.gia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webmin/components/webcomp/news.list/templates/tung/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3381">
+          <caret line="117" column="22" lean-forward="false" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="22" />
           <folding />
         </state>
       </provider>

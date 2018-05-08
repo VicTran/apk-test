@@ -42,6 +42,7 @@
 </head>
 
 <body class="hold-transition skin-blue  layout-top-nav">
+<div id="panel"><?=$APPLICATION->ShowPanel();?></div>
 <div class="wrapper">
 
     <header class="main-header">

@@ -13,7 +13,7 @@ $APPLICATION->IncludeComponent("webcomp:static", "book.step", array(
     <div class="container">
         <div class="row">
             <?
-            $APPLICATION->IncludeComponent("webcomp:booking.car", "step3", array(
+            $APPLICATION->IncludeComponent("webcomp:booking.car2", "step3", array(
                 "STEP" => 3,
                 "URL_STEP_1" => "/dat-xe/",
                 "URL_STEP_2" => "/dat-xe/thong-tin-khach-hang/",
